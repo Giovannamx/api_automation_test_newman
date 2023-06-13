@@ -1,5 +1,4 @@
 name: Test-API-newman
-on:
  push: 
  branches:
  - main 
